@@ -23,6 +23,7 @@
   "homepage": "https://github.com/jgarcia99/node-slackbot-microservice#readme",
   "dependencies": {
     "@slack/client": "^3.14.2",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "superagent": "^3.8.1"
   }
 }
