@@ -1,0 +1,24 @@
+{
+  "name": "slack-bot-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgarcia99/node-slackbot-microservice.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Microservice"
+  ],
+  "author": "Josuel Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgarcia99/node-slackbot-microservice/issues"
+  },
+  "homepage": "https://github.com/jgarcia99/node-slackbot-microservice#readme"
+}
